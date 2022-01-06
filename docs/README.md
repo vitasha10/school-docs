@@ -15,7 +15,7 @@
 - Предоставить доступ к самым современным функциям совместной работы.
 - Собрать в одном месте аккаунты выпускников, учителей, других волонтёров, которые могут помочь ученикам с их начинаниями в IT области.
 
-## ✉️&nbsp;Контакты:
+✉️&nbsp;Контакты:
 <p align="left">
   <a href="https://s146.ru"><img src="https://img.shields.io/badge/-s146.ru-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
   <a href="mailto:github@s146.ru"><img src="https://img.shields.io/badge/-github@s146.ru-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
